@@ -24,8 +24,8 @@ namespace Tree_Traversal
                 fringe.Add(lastnode + 3);
 
                 // Remove fringe and change new state
-                int nextvisit = fringe[0];
-                visited.Add(nextvisit);
+                int visitednode = fringe[0];
+                visited.Add(visitednode);
                 fringe.RemoveAt(0);
                 state = fringe[0];
             }    
