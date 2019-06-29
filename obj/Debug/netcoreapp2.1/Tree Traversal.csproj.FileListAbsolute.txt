@@ -1,0 +1,11 @@
+C:\Users\Carlo\Documents\Projects\Tree Traversal\obj\Debug\netcoreapp2.1\Tree Traversal.csprojAssemblyReference.cache
+C:\Users\Carlo\Documents\Projects\Tree Traversal\obj\Debug\netcoreapp2.1\Tree Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Documents\Projects\Tree Traversal\obj\Debug\netcoreapp2.1\Tree Traversal.AssemblyInfoInputs.cache
+C:\Users\Carlo\Documents\Projects\Tree Traversal\obj\Debug\netcoreapp2.1\Tree Traversal.AssemblyInfo.cs
+C:\Users\Carlo\Documents\Projects\Tree Traversal\bin\Debug\netcoreapp2.1\Tree Traversal.deps.json
+C:\Users\Carlo\Documents\Projects\Tree Traversal\bin\Debug\netcoreapp2.1\Tree Traversal.runtimeconfig.json
+C:\Users\Carlo\Documents\Projects\Tree Traversal\bin\Debug\netcoreapp2.1\Tree Traversal.runtimeconfig.dev.json
+C:\Users\Carlo\Documents\Projects\Tree Traversal\bin\Debug\netcoreapp2.1\Tree Traversal.dll
+C:\Users\Carlo\Documents\Projects\Tree Traversal\bin\Debug\netcoreapp2.1\Tree Traversal.pdb
+C:\Users\Carlo\Documents\Projects\Tree Traversal\obj\Debug\netcoreapp2.1\Tree Traversal.dll
+C:\Users\Carlo\Documents\Projects\Tree Traversal\obj\Debug\netcoreapp2.1\Tree Traversal.pdb
