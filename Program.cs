@@ -33,14 +33,24 @@ namespace Tree_Traversal
                     Console.WriteLine();
 
                     // Add children
-                    int lastnode = fringe[fringe.Count-1];
-                    fringe.Add(lastnode + 1);
-                    fringe.Add(lastnode + 2);
-                    fringe.Add(lastnode + 3);
+                    if (state == 1)
+                    {
+                        fringe.Add(2);
+                        fringe.Add(3);
+                        fringe.Add(4);
+                    }
+                    else
+                    {
+                        int lastnode = visited[visited.Count-1];
+                        fringe.Add(lastnode + 1);
+                        fringe.Add(lastnode + 2);
+                        fringe.Add(lastnode + 3);
+                    }
 
                     // Change to new state
-                    int visitednode = fringe[0];
-                    visited.Add(visitednode);
+                    visited.Add(fringe[0]);
+                    visited.Add(fringe[1]);
+                    visited.Add(fringe[2]);
                     
                     // Show Fringe
                     Console.WriteLine("Fringe:");
@@ -48,8 +58,8 @@ namespace Tree_Traversal
                     Console.WriteLine();
 
                     // Remove fringe
-                    fringe.RemoveAt(0);
-                    state = fringe[0];
+                    state = fringe[fringe.Count - 1];
+                    fringe.Clear();
                 }    
             }
             else if (choice == "2")
