@@ -8,7 +8,7 @@ namespace Tree_Traversal
         {
             // Tree Traversal Exercise by Luis Cajucom, Carlo Ferrer, Mika Yap
             // Declare goal state, fringe, and visited list
-            int goalstate = 40;
+            int goalstate = 43;
             List<int> fringe = new List<int>();
             List<int> visited = new List<int>();
 
@@ -66,7 +66,55 @@ namespace Tree_Traversal
                     visited.ForEach(item => Console.Write(item + ", "));
                     Console.WriteLine();
                     
-                }    
+                }
+
+                // --- LUIS PRINT CODE ---
+                List<string> treePrint = new List<string>();
+                for (int x = 0; x <= 4; x++)
+                {
+                    treePrint.Add("");
+
+                }
+                string printHolder = "";
+                for (int x = 0; x <= visited.Count-1; x++)
+                {
+                    if (x == 0)
+                    {
+                        printHolder = (visited[x]).ToString();
+                        treePrint[0] = printHolder;
+                    }
+                    else if (x > 0 && x <= 3)
+                    {
+                        printHolder = treePrint[1];
+                        printHolder += (visited[x]).ToString() + " ";
+                        treePrint[1] = printHolder;
+                    }
+                    else if (x > 3 && x <= 12)
+                    {
+                        printHolder = treePrint[2];
+                        printHolder += (visited[x]).ToString() + " ";
+                        treePrint[2] = printHolder;
+                    }
+                    else if (x > 12 && x <= 39)
+                    {
+                        printHolder = treePrint[3];
+                        printHolder += (visited[x]).ToString() + " ";
+                        treePrint[3] = printHolder;
+                    }
+                    else if (x > 39 && x <= 120)
+                    {
+                        printHolder = treePrint[4];
+                        printHolder += (visited[x]).ToString() + " ";
+                        treePrint[4] = printHolder;
+                    }
+                }
+
+                Console.WriteLine();
+                Console.WriteLine("Final Tree Output:");
+                for (int x = 0; x <= 4; x++)
+                {
+                    Console.WriteLine(treePrint[x]);
+                }
             }
             else if (choice == "2")
             {
