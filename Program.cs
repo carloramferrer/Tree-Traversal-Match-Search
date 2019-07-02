@@ -6,8 +6,9 @@ namespace Tree_Traversal
     {
         static void Main(string[] args)
         {
+            // Tree Traversal Exercise by Luis Cajucom, Carlo Ferrer, Mika Yap
             // Declare goal state, fringe, and visited list
-            int goalstate = 43;
+            int goalstate = 40;
             List<int> fringe = new List<int>();
             List<int> visited = new List<int>();
 
@@ -27,11 +28,6 @@ namespace Tree_Traversal
                 // BFS Tree Traversal
                 while (state <= goalstate)
                 {
-                    // Show Tree
-                    Console.WriteLine("Tree Traversal:");
-                    visited.ForEach(item => Console.Write(item + ", "));
-                    Console.WriteLine();
-
                     // Add children
                     if (state == 1)
                     {
@@ -41,7 +37,8 @@ namespace Tree_Traversal
                     }
                     else
                     {
-                        int lastnode = visited[visited.Count-1];
+                        int lastnode = fringe[fringe.Count-1];
+                        // V2: int lastnode = visited[visited.Count - 1];
                         fringe.Add(lastnode + 1);
                         fringe.Add(lastnode + 2);
                         fringe.Add(lastnode + 3);
@@ -49,8 +46,8 @@ namespace Tree_Traversal
 
                     // Change to new state
                     visited.Add(fringe[0]);
-                    visited.Add(fringe[1]);
-                    visited.Add(fringe[2]);
+                    // V2: visited.Add(fringe[1]);
+                    // V2: visited.Add(fringe[2]);
                     
                     // Show Fringe
                     Console.WriteLine("Fringe:");
@@ -58,8 +55,17 @@ namespace Tree_Traversal
                     Console.WriteLine();
 
                     // Remove fringe
-                    state = fringe[fringe.Count - 1];
-                    fringe.Clear();
+                    fringe.RemoveAt(0);
+                    state = fringe[0];
+                    
+                    // V2: state = fringe[fringe.Count - 1];
+                    // V2: fringe.Clear();
+
+                    // Show Tree
+                    Console.WriteLine("Tree Traversal:");
+                    visited.ForEach(item => Console.Write(item + ", "));
+                    Console.WriteLine();
+                    
                 }    
             }
             else if (choice == "2")
@@ -82,9 +88,9 @@ namespace Tree_Traversal
                     else
                     {
                         int lastnode = visited[visited.Count-1];                        
-                        fringe.Add(lastnode + 7);
-                        fringe.Add(lastnode + 8);
-                        fringe.Add(lastnode + 9);
+                        fringe.Add((lastnode * 3)-1);
+                        fringe.Add((lastnode * 3));
+                        fringe.Add((lastnode * 3)+1);
                     }
                     
 
