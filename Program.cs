@@ -9,7 +9,7 @@ namespace Tree_Traversal
             // Tree Traversal Exercise by Luis Cajucom, Carlo Ferrer, Mika Yap
             // Declare goal state, fringe, and visited list
             Console.Write("Enter number of goalstate: ");
-            string goalstate = Console.ReadLine();
+            int goalstate = int.Parse(Console.ReadLine());
             // int goalstate = 40;
             List<int> fringe = new List<int>();
             List<int> visited = new List<int>();
