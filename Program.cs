@@ -8,7 +8,9 @@ namespace Tree_Traversal
         {
             // Tree Traversal Exercise by Luis Cajucom, Carlo Ferrer, Mika Yap
             // Declare goal state, fringe, and visited list
-            int goalstate = 40;
+            Console.Write("Enter number of goalstate: ");
+            string goalstate = Console.ReadLine();
+            // int goalstate = 40;
             List<int> fringe = new List<int>();
             List<int> visited = new List<int>();
 
@@ -18,13 +20,13 @@ namespace Tree_Traversal
             fringe.Add(state);
 
             // Get type of search
-            Console.WriteLine("1. BFS ");
-            Console.WriteLine("2. DFS ");
-            Console.Write("Choose one: ");
-            string choice = Console.ReadLine();
+            // Console.WriteLine("1. BFS ");
+            // Console.WriteLine("2. DFS ");
+            // Console.Write("Choose one: ");
+            // string choice = Console.ReadLine();
 
-            if (choice == "1")
-            {
+            // if (choice == "1")
+            // {
                 // BFS Tree Traversal
                 while (state <= goalstate)
                 {
@@ -115,73 +117,50 @@ namespace Tree_Traversal
                 {
                     Console.WriteLine(treePrint[x]);
                 }
-            }
-            else if (choice == "2")
-            {
-                // DFS Tree Traversal
-                while (state <= goalstate)
-                {
-                    // Show Tree
-                    Console.WriteLine("Tree Traversal:");
-                    visited.ForEach(item => Console.Write(item + ", "));
-                    Console.WriteLine();
-
-                    // Add children
-                    if (state == 1)
-                    {
-                        fringe.Add(2);
-                        fringe.Add(3);
-                        fringe.Add(4);
-                    }
-                    else
-                    {
-                        int lastnode = visited[visited.Count-1];                        
-                        fringe.Add((lastnode * 3)-1);
-                        fringe.Add((lastnode * 3));
-                        fringe.Add((lastnode * 3)+1);
-                    }
-                    
-
-                    // Change to new state
-                    int visitednode = fringe[fringe.Count-1];
-                    visited.Add(visitednode);
-                    
-                    // Show Fringe
-                    Console.WriteLine("Fringe:");
-                    fringe.ForEach(item => Console.Write(item + ", "));
-                    Console.WriteLine();
-
-                    // Remove fringe
-                    state = fringe[fringe.Count-1];
-                    fringe.Clear();
-                }
-            }
-            else
-            {
-                Console.WriteLine("Invalid choice.");
-            }
-            
-            // Print Final Output:
-            // Console.WriteLine("Fringe:");
-            // fringe.ForEach(item => Console.Write(item + ", "));
-            // Console.WriteLine();
-            // Console.WriteLine("Tree Traversal:");
-            // visited.ForEach(item => Console.Write(item + ", "));
-            // Console.WriteLine();   
-
-            // Generate Tree
-            // int count = 0;
-            // while (state <= visited.Count)
+            // }
+            // else if (choice == "2")
             // {
-            //     if (state == 1)
+            //     // DFS Tree Traversal
+            //     while (state <= goalstate)
             //     {
-            //         Console.Write(state);
-            //         if (count )
-            //     }
-            //     else
-            //     {
+            //         // Show Tree
+            //         Console.WriteLine("Tree Traversal:");
+            //         visited.ForEach(item => Console.Write(item + ", "));
+            //         Console.WriteLine();
+
+            //         // Add children
+            //         if (state == 1)
+            //         {
+            //             fringe.Add(2);
+            //             fringe.Add(3);
+            //             fringe.Add(4);
+            //         }
+            //         else
+            //         {
+            //             int lastnode = visited[visited.Count-1];                        
+            //             fringe.Add((lastnode * 3)-1);
+            //             fringe.Add((lastnode * 3));
+            //             fringe.Add((lastnode * 3)+1);
+            //         }
                     
+
+            //         // Change to new state
+            //         int visitednode = fringe[fringe.Count-1];
+            //         visited.Add(visitednode);
+                    
+            //         // Show Fringe
+            //         Console.WriteLine("Fringe:");
+            //         fringe.ForEach(item => Console.Write(item + ", "));
+            //         Console.WriteLine();
+
+            //         // Remove fringe
+            //         state = fringe[fringe.Count-1];
+            //         fringe.Clear();
             //     }
+            // }
+            // else
+            // {
+            //     Console.WriteLine("Invalid choice.");
             // }
         }
     }

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlo\\Documents\\Projects\\tree2\\treetraversal\\Tree Traversal.csproj",
+      "projectUniqueName": "C:\\Users\\Carlo\\Documents\\Projects\\Tree Traversal\\Tree Traversal.csproj",
       "projectName": "Tree Traversal",
-      "projectPath": "C:\\Users\\Carlo\\Documents\\Projects\\tree2\\treetraversal\\Tree Traversal.csproj",
+      "projectPath": "C:\\Users\\Carlo\\Documents\\Projects\\Tree Traversal\\Tree Traversal.csproj",
       "packagesPath": "C:\\Users\\Carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlo\\Documents\\Projects\\tree2\\treetraversal\\obj\\",
+      "outputPath": "C:\\Users\\Carlo\\Documents\\Projects\\Tree Traversal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
