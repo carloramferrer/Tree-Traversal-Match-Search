@@ -8,7 +8,7 @@ namespace Tree_Traversal
         {
             // Tree Traversal Exercise by Luis Cajucom, Carlo Ferrer, Mika Yap
             // Declare goal state, fringe, and visited list
-            int goalstate = 43;
+            int goalstate = 40;
             List<int> fringe = new List<int>();
             List<int> visited = new List<int>();
 
@@ -66,7 +66,7 @@ namespace Tree_Traversal
                     visited.ForEach(item => Console.Write(item + ", "));
                     Console.WriteLine();
                     
-                }
+                }    
 
                 // --- LUIS PRINT CODE ---
                 List<string> treePrint = new List<string>();
