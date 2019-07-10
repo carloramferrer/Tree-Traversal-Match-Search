@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis Cajucom\\Desktop\\GDrive\\5th Year College Files\\02 Intercession\\04 Introduction to AI\\AI Carlo v5\\treetraversal-develop\\Tree Traversal.csproj": {}
+    "C:\\Users\\Luis Cajucom\\Desktop\\GDrive\\5th Year College Files\\02 Intercession\\04 Introduction to AI\\AI_Carlov9\\treetraversal-master\\Tree Traversal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis Cajucom\\Desktop\\GDrive\\5th Year College Files\\02 Intercession\\04 Introduction to AI\\AI Carlo v5\\treetraversal-develop\\Tree Traversal.csproj": {
+    "C:\\Users\\Luis Cajucom\\Desktop\\GDrive\\5th Year College Files\\02 Intercession\\04 Introduction to AI\\AI_Carlov9\\treetraversal-master\\Tree Traversal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis Cajucom\\Desktop\\GDrive\\5th Year College Files\\02 Intercession\\04 Introduction to AI\\AI Carlo v5\\treetraversal-develop\\Tree Traversal.csproj",
+        "projectUniqueName": "C:\\Users\\Luis Cajucom\\Desktop\\GDrive\\5th Year College Files\\02 Intercession\\04 Introduction to AI\\AI_Carlov9\\treetraversal-master\\Tree Traversal.csproj",
         "projectName": "Tree Traversal",
-        "projectPath": "C:\\Users\\Luis Cajucom\\Desktop\\GDrive\\5th Year College Files\\02 Intercession\\04 Introduction to AI\\AI Carlo v5\\treetraversal-develop\\Tree Traversal.csproj",
+        "projectPath": "C:\\Users\\Luis Cajucom\\Desktop\\GDrive\\5th Year College Files\\02 Intercession\\04 Introduction to AI\\AI_Carlov9\\treetraversal-master\\Tree Traversal.csproj",
         "packagesPath": "C:\\Users\\Luis Cajucom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis Cajucom\\Desktop\\GDrive\\5th Year College Files\\02 Intercession\\04 Introduction to AI\\AI Carlo v5\\treetraversal-develop\\obj\\",
+        "outputPath": "C:\\Users\\Luis Cajucom\\Desktop\\GDrive\\5th Year College Files\\02 Intercession\\04 Introduction to AI\\AI_Carlov9\\treetraversal-master\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

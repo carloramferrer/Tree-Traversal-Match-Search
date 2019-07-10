@@ -20,3 +20,36 @@ C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 I
 C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI Carlo v5\treetraversal-develop\obj\Debug\netcoreapp2.1\Tree Traversal.AssemblyInfo.cs
 C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI Carlo v5\treetraversal-develop\obj\Debug\netcoreapp2.1\Tree Traversal.dll
 C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI Carlo v5\treetraversal-develop\obj\Debug\netcoreapp2.1\Tree Traversal.pdb
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\bin\Debug\netcoreapp2.1\Tree Traversal.deps.json
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\bin\Debug\netcoreapp2.1\Tree Traversal.runtimeconfig.json
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\bin\Debug\netcoreapp2.1\Tree Traversal.runtimeconfig.dev.json
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\bin\Debug\netcoreapp2.1\Tree Traversal.dll
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\bin\Debug\netcoreapp2.1\Tree Traversal.pdb
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\obj\Debug\netcoreapp2.1\Tree Traversal.csprojAssemblyReference.cache
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\obj\Debug\netcoreapp2.1\Tree Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\obj\Debug\netcoreapp2.1\Tree Traversal.AssemblyInfoInputs.cache
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\obj\Debug\netcoreapp2.1\Tree Traversal.AssemblyInfo.cs
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\obj\Debug\netcoreapp2.1\Tree Traversal.dll
+C:\Users\Carlo\Documents\Projects\tree2\treetraversal\obj\Debug\netcoreapp2.1\Tree Traversal.pdb
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\bin\Debug\netcoreapp2.1\Tree Traversal.deps.json
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\bin\Debug\netcoreapp2.1\Tree Traversal.runtimeconfig.json
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\bin\Debug\netcoreapp2.1\Tree Traversal.runtimeconfig.dev.json
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\bin\Debug\netcoreapp2.1\Tree Traversal.dll
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\bin\Debug\netcoreapp2.1\Tree Traversal.pdb
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.csprojAssemblyReference.cache
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.AssemblyInfoInputs.cache
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.AssemblyInfo.cs
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.dll
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov6\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.pdb
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\bin\Debug\netcoreapp2.1\Tree Traversal.deps.json
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\bin\Debug\netcoreapp2.1\Tree Traversal.runtimeconfig.json
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\bin\Debug\netcoreapp2.1\Tree Traversal.runtimeconfig.dev.json
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\bin\Debug\netcoreapp2.1\Tree Traversal.dll
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\bin\Debug\netcoreapp2.1\Tree Traversal.pdb
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.csprojAssemblyReference.cache
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.AssemblyInfoInputs.cache
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.AssemblyInfo.cs
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.dll
+C:\Users\Luis Cajucom\Desktop\GDrive\5th Year College Files\02 Intercession\04 Introduction to AI\AI_Carlov7\treetraversal-master\obj\Debug\netcoreapp2.1\Tree Traversal.pdb
